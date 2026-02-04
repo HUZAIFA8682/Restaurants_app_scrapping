@@ -1,0 +1,98 @@
+Category,Restaurant Name,Specialty,Location/Area
+International Chain,McDonald's,Burgers & Fries,"Saddar, Jinnah Park, Bahria Town, Satellite Town, PWD"
+International Chain,KFC,Fried Chicken,"Saddar, Commercial Market, Bahria Town, Giga Mall, PWD, Scheme 3"
+International Chain,Pizza Hut,Deep Pan Pizza,"Saddar, Bahria Town, Commercial Market"
+International Chain,Domino's Pizza,Pizza Delivery,"Bahria Town, Saddar, Chaklala Scheme 3, Commercial Market"
+International Chain,Hardee's,Charbroiled Burgers,"Bahria Town, I-8 (Serving Rwp)"
+International Chain,Subway,Sandwiches & Salads,"Bahria Town, Saddar, Commercial Market"
+International Chain,Dunkin' Donuts,Donuts & Coffee,"Saddar, Bahria Town, PWD, Chaklala"
+International Chain,Gloria Jean's Coffees,Coffee & Sandwiches,"Saddar, Bahria Town, Commercial Market"
+International Chain,Second Cup,Coffee & Snacks,Jinnah Park
+International Chain,Baskin Robbins,Ice Cream & Shakes,Bahria Town
+International Chain,Papa John's,Pizza,"Bahria Town, PWD"
+International Chain,Texas Chicken,Fried Chicken,Bahria Town
+Local Giant,Cheezious,Pizza/Rolls/Pasta,"Saddar, Commercial Market, Adyala Rd, Chaklala Scheme 3, PWD"
+Local Giant,Ranchers,Cowboy Burgers,"Saddar, Bahria Town Phase 7, Commercial Market, PWD"
+Local Giant,Savour Foods,Pulao & Burgers,"Gordon College Rd, Cricket Stadium, PWD"
+Local Giant,OPTP,Fries & Burgers,"Saddar, Bahria Town, Giga Mall, Chaklala Scheme 3, PWD"
+Local Giant,Fri-Chicks,Fried Chicken,"Commercial Market, Murree Road"
+Local Giant,Tehzeeb Bakers,Pizza & Fast Food,"Saddar, Chaklala Scheme 3, Commercial Market"
+Local Giant,Bread & Butter,Bakery Fast Food,Murree Road
+Local Giant,Al-Faisal (AFC),Fried Chicken/Broast,"Saddar, Murree Road, Commercial Market"
+Local Giant,FresCo,Pizza & Fast Food,Saddar (Bank Road)
+Burger Specialist,Burger Lab,Gourmet Burgers,"Bahria Town, Saddar"
+Burger Specialist,Ministry of Burgers (MOB),Premium Burgers,Bahria Town
+Burger Specialist,Char Grill Central (CGC),Grilled Burgers,Bahria Town
+Burger Specialist,Cannoli by Cafe Soul,Premium Burgers/Pasta,Bahria Town
+Burger Specialist,BLT (Burger Lettuce Tomato),Burgers,Bahria Town
+Burger Specialist,Ox & Grill,Steaks & Burgers,"Saddar, Bahria Town"
+Burger Specialist,Daily Deli Co.,Sliders & Burgers,Bahria Town
+Burger Specialist,Damn! Burgers,Gourmet Burgers,Saddar Cantt
+Burger Specialist,Street 1 Cafe,Continental/Burgers,Bahria Town
+Burger Specialist,International Burger,Classic Bun Kabab/Burger,Saddar (Bank Road)
+Burger Specialist,Wild Wings,Wings & Burgers,"Bahria Town, Saddar"
+Burger Specialist,The Guy Who Cooks,Burgers,Bahria Town
+Burger Specialist,Original Premium Burgers (OPB),Smash Burgers,Bahria Town Phase 7
+Burger Specialist,Burger House,Burgers,Bahria Town
+Burger Specialist,Burgie's,Burgers,Bahria Town
+Burger Specialist,Burger Mehfil,Budget Burgers,Satellite Town
+Burger Specialist,Mr. Burger,Local Burgers,Saddar
+Burger Specialist,National Burger,Desi Burgers,Saddar
+Burger Specialist,Blaster Chicken,Fried Chicken/Burgers,Saddar
+Pizza Place,14th Street Pizza,NY Style Pizza,"Bahria Town, PWD"
+Pizza Place,New York Pizza,Pizza,"Bahria Town, Commercial Market"
+Pizza Place,Pappasallis,Italian/Pizza,"Jinnah Park, Saddar"
+Pizza Place,Broadway Pizza,Pizza,"Bahria Town, Commercial Market, PWD"
+Pizza Place,Stone Ove Pizza,Pizza,Bahria Town
+Pizza Place,Pizza Originale,Thin Crust Pizza,Bahria Town
+Pizza Place,Italian Pizza,Budget Pizza,"Commercial Market, PWD, Multiple Branches"
+Pizza Place,1969 & Time Goes On,Pizza & Continental,Bahria Town
+Pizza Place,Tehzeeb Pizza,Bakery Pizza,All Tehzeeb Locations
+Pizza Place,Pizza Square,Pizza,Commercial Market
+Pizza Place,Pizza Mc,Budget Pizza,Satellite Town
+Pizza Place,Pizza Next,Pizza,Commercial Market
+Pizza Place,Pizza Planet,Pizza,Satellite Town
+Pizza Place,Forks N Knives,Pizza & Pasta,PWD
+Pizza Place,Maestro Pizza,Pizza,Bahria Town
+Pizza Place,Jeedar Pizza King,Pizza,Commercial Market
+Pizza Place,Mozzarella Moon,Pizza,Saddar
+Desi Fast Food / Rolls,Roll Paratha,Paratha Rolls,"Saddar, Commercial Market, Bahria Town"
+Desi Fast Food / Rolls,Red Apple,Paratha Rolls,"Commercial Market, Saddar"
+Desi Fast Food / Rolls,Silver Spoon,Shawarma & Rolls,Commercial Market
+Desi Fast Food / Rolls,Naan Stop,Stuffed Naan,Bahria Town
+Desi Fast Food / Rolls,Majeed Rice,Fast Rice/Biryani,Commercial Market
+Desi Fast Food / Rolls,Haidri Refreshment,Desi Snacks,Saddar
+Desi Fast Food / Rolls,Lahore Chatkhara,Chaat/Dahi Bhallay,Saddar (Bank Road)
+Desi Fast Food / Rolls,Kareem's Cafe,Chaat/Burgers,Saddar
+Desi Fast Food / Rolls,Punjab Food Corner,Shawarma/Burgers,Satellite Town
+Desi Fast Food / Rolls,Boom Boom Hot N Spicy,Paratha Rolls/BBQ,Commercial Market/PWD
+Desi Fast Food / Rolls,Karachi Naseeb Biryani,Biryani/Fast Food,Multiple Locations
+Desi Fast Food / Rolls,Rashid Sweets,Puri/Snacks,Saddar
+Specialty / Fried Chicken,Crunchies,Fried Chicken,Satellite Town
+Specialty / Fried Chicken,Bismillah Broast,Broast,Commercial Market
+Specialty / Fried Chicken,Wrap Lab,Wraps,Bahria Town/Commercial Market
+Specialty / Fried Chicken,Texas Chicken,Fried Chicken,Bahria Town
+Specialty / Fried Chicken,Broast King,Broast,Saddar
+Specialty / Fried Chicken,Chicken Base,Fried Chicken,Commercial Market
+Food Court / Mall,Asian Wok,Chinese Fast Casual,Bahria Town
+Food Court / Mall,Roasters,Burgers/Steaks,Saddar
+Food Court / Mall,Tuscany Courtyard,Italian Fast Casual,Bahria Town
+Food Court / Mall,Ox & Grill,Steaks/Burgers,Saddar
+Food Court / Mall,Meiners,Burgers,Saddar
+Food Court / Mall,Monzie's,Fast Food,Commercial Market
+Local Hidden Gems,Spicy2Night,Fast Food,Saddar
+Local Hidden Gems,Jik Jik Fast Food,Chinese/Fast Food,Saddar
+Local Hidden Gems,Foodies Station,Burgers/Sandwiches,Commercial Market
+Local Hidden Gems,Crispy Crust,Pizza,Commercial Market
+Local Hidden Gems,Lit (Life In Taste),Burgers,Bahria Town
+Local Hidden Gems,Desi Feast,Fast Food/Desi,Satellite Town
+Local Hidden Gems,P4 Pizza & Fast Food,Pizza,Chaklala Scheme 3
+Local Hidden Gems,Hungry Hub,Pizza,Satellite Town
+Local Hidden Gems,Melthype,Fast Food,Rawalpindi
+Local Hidden Gems,Chucky's Chicken,Fried Chicken,Commercial Market
+Local Hidden Gems,Flamez,Fast Food,PWD
+Local Hidden Gems,Bunzilla Foods,Burgers,PWD
+Local Hidden Gems,Al Kaif Pizza & Burger,Pizza/Burgers,PWD
+Local Hidden Gems,ZAMZAM Grill,Fast Food/Grill,PWD
+Local Hidden Gems,Mr. Roll Inn,Rolls,Saddar
+Local Hidden Gems,Hot N Spicy,Fast Food,Saddar & Commercial Market
